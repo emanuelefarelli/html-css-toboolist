@@ -19,6 +19,7 @@ header{
 }
 .logo-txt{
     display: inline-block;
+    vertical-align: middle;
 }
 main{
     background-color: white;
@@ -63,7 +64,7 @@ nav{
     height: 20px;
     font-size: 0.8rem;
     display: inline-block;
-    padding-left: 4px;
+    text-align: center;
     margin: 10px;
     border: 1px solid;
     border-radius: 50%;
